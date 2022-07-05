@@ -6,4 +6,4 @@
 ### Running
 1. activate the dev environment by running [nix-shell](https://nixos.org/manual/nix/stable/command-ref/nix-shell.html)
 2. run the main program with `go run main.go <path to the image to serve>`
-3. navigate to 'localhost:8080' in browser
+3. navigate to `localhost:8080` in browser
